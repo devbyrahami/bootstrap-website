@@ -1,0 +1,30 @@
+.logo-ion {
+  height: 100px;
+  width: 100px;
+}
+
+.image-on-right {
+  height: 400px;
+  width: 400px;
+}
+
+.first-line {
+  width: 50%;
+}
+
+.card-img-top {
+  height: 400px;
+  width: 100%;
+}
+
+hr {
+  border-top: 1px solid;
+}
+
+.list-footer {
+  list-style: none;
+}
+
+.footer-footer {
+  color: white;
+}
